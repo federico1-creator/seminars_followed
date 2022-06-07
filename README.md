@@ -1,2 +1,3 @@
-# seminars_followed
-list of attended seminars
+# list of attended seminars
+
+
