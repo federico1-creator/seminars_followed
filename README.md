@@ -2,7 +2,6 @@
 
 | **Topic** | **Speaker** | **Date** | **Place** |
 | ------ | ------- | --- | ------ |
-| ------ | ------- | --- | ------ |
-| ciao   | ciao 2  | ciao 3 | ciao4 |
+| Machine Learning Applications in Trading and Portfolio Management   | Petter Kolm  | 07/06/2022 | AImageLab |
 
 
