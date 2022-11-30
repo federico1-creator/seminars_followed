@@ -9,4 +9,5 @@
 | Generative art, using diffusion | Prafulla Dhariwal | 06/11/2022 | Online
 | How to write a paper | Springer nature | 08/11/2022 | UNIMORE/online
 | Graph Signal Processing for Machine Learning: Challenges and Use-cases | Laura Toni | 22/11/2022 | AImageLab
+| Collective Intelligence and Creative AI | David Ha | 30/11/2022 | Online
 
