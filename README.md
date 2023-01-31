@@ -1,6 +1,6 @@
 # list of attended seminars:
 
-| **Topic** | **Speaker** | **Date** | **Place** |
+| **Topic** | **Speaker** | **Date** | **Affiliation** |
 | ------ | ------- | --- | ------ |
 | Safe, Interaction-Aware Decision Making and Control for Robot Autonomy | Marco Pavone | 14/10/2021 | AImageLab/online
 | Research challenges in Leonardo Labs: applied Deep Learning in the Industry | Alessandro Nicolosi  | 04/04/2022 | AImageLab |
