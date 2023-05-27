@@ -2,7 +2,6 @@
 
 | **Topic** | **Speaker** | **Date** | **Speaker affiliation** |
 | ------ | ------- | --- | ------ |
-
 | Multi-Object Tracking | Laura Leal-Taixé | 24/05/2023 | NVIDIA
 | MLOps Foundamentals | Maurizio Ipsale | 07/12/2022 | Datatonic Academy
 | Collective Intelligence and Creative AI | David Ha | 30/11/2022 | Stability AI
